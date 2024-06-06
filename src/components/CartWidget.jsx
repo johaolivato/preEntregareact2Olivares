@@ -2,7 +2,7 @@ import React from 'react';
 import { FaHeart } from 'react-icons/fa';
 
 const CartWidget = () => {
-  const itemCount = 5; // Número hardcodeado para la cantidad de elementos en el carrito
+  const itemCount = 3; // Número hardcodeado
   return (
     <div className="d-flex align-items-center">
       <FaHeart />
